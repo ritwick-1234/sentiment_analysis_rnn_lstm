@@ -7,4 +7,12 @@ Initially, I tried a Simple Recurrent Neural Network (SimpleRNN) for the sentime
 
 ![Screenshot 2024-07-09 095928](https://github.com/ritwick-1234/sentiment_analysis_rnn_lstm/assets/132933739/113a0dc2-5170-4259-918c-085031db1cf2)
 
+## I deployed my sentiment analysis project on Streamlit. Here is the demo
+
+
+
+
+https://github.com/ritwick-1234/sentiment_analysis_rnn_lstm/assets/132933739/ade0cf7c-4183-4cbe-9679-a93686ad6edf
+
+
 
