@@ -3,8 +3,8 @@ from keras.models import load_model
 import joblib
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 
-model = load_model('/content/model_final.h5')
-tokenizer = joblib.load('/content/tokenizer.pkl')
+model = load_model('model_final.h5')
+tokenizer = joblib.load('tokenizer.pkl')
 
 def predictive_system(review):
     sequences = tokenizer.texts_to_sequences([review])
