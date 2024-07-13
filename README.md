@@ -14,5 +14,9 @@ Initially, I tried a Simple Recurrent Neural Network (SimpleRNN) for the sentime
 
 https://github.com/ritwick-1234/sentiment_analysis_rnn_lstm/assets/132933739/ade0cf7c-4183-4cbe-9679-a93686ad6edf
 
+# Tech Stack
+### 1.Python 
+### 2.Streamlit
+### 3.Tensorflow
 
 
